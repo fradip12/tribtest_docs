@@ -16,7 +16,6 @@ Requirements Checklist Status
 * AI Suggestions (route cards) ✅
 * Meeting Card integration ✅
 * Geohash masking + encryption ✅
-* Purple/green/yellow UI theme ✅
 
 ### ML Component
 
